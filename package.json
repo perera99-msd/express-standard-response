@@ -1,15 +1,37 @@
 {
   "name": "express-standard-response",
   "version": "1.0.0",
-  "description": "",
+  "description": "Standardized API success and error response utilities for Express.js",
   "main": "index.js",
+  "files": [
+    "src",
+    "index.js"
+  ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node --test"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "express",
+    "api",
+    "response",
+    "error-handling",
+    "nodejs",
+    "middleware"
+  ],
+  "author": "Dimalsh Perera",
+  "license": "MIT",
   "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perera99-msd/express-standard-response.git"
+  },
+  "bugs": {
+    "url": "https://github.com/perera99-msd/express-standard-response/issues"
+  },
+  "homepage": "https://github.com/perera99-msd/express-standard-response#readme",
+  "engines": {
+    "node": ">=16.0.0"
+  },
   "dependencies": {
     "express": "^5.2.1"
   }
