@@ -1,5 +1,5 @@
-const ApiResponse = require('./src/ApiResponse');
-const ApiError = require('./src/ApiError');
+const ApiResponse = require('./ApiResponse');
+const ApiError = require('./ApiError');
 
 module.exports = {
     ApiResponse,
