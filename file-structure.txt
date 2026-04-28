@@ -1,0 +1,19 @@
+express-standard-response/
+├─ CODE_OF_CONDUCT.md
+├─ CONTRIBUTING.md
+├─ LICENSE
+├─ README.md
+├─ SECURITY.md
+├─ .gitignore
+├─ index.js
+├─ package.json
+├─ package-lock.json
+├─ src/
+│  ├─ ApiError.js
+│  ├─ ApiResponse.js
+│  └─ index.js
+
+Files listed on: 2026-04-28
+
+Notes:
+- This file lists the repository file and folder structure at creation time.
